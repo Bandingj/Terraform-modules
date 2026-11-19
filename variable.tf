@@ -1,6 +1,6 @@
 variable "class_bucket_name" {
   description = "The name of the S3 bucket to create"
-  default     = "class-module-bucketjatta"
+  default     = "class-module-bucketjatta11"
 }
 
 variable "ami_id" {
