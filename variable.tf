@@ -1,6 +1,6 @@
 variable "class_bucket_name" {
   description = "The name of the S3 bucket to create"
-  default     = "class-module-bucket1112"
+  default     = "class-module-bucketjatta"
 }
 
 variable "ami_id" {
@@ -15,5 +15,5 @@ variable "instance_type" {
 
 variable "n_virginia_key" {
   description = "The name of the key pair to use for the EC2 instance"
-  default     = "myserver"
+  default     = "N.Virginia-key"
 }
