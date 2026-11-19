@@ -13,7 +13,7 @@ variable "instance_type" {
   default     = "t2.medium"
 }
 
-variable "N.Virginia-key" {
+variable "n_virginia_key" {
   description = "The name of the key pair to use for the EC2 instance"
   default     = "myserver"
 }
