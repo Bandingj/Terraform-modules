@@ -1,5 +1,5 @@
 
-name: deploy my terraform resources
+name: deploy my terraform resources1
 
 'on':
   pull_request:
